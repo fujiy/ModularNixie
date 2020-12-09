@@ -1,0 +1,50 @@
+
+# IN-12 Module
+ATmega48, , ATmega48-20AU, 1, https://akizukidenshi.com/catalog/g/gI-08437/
+デュアルNPNトランジスタ, 60V 150mA, HN1C01FU, 1, https://akizukidenshi.com/catalog/g/gI-13728/
+チップNPNトランジスタ, 50V 100mA,2PD601AR, 1, https://akizukidenshi.com/catalog/g/gI-02231/
+スイッチングダイオード, 80V 100mA, MA6Z121, 1, https://akizukidenshi.com/catalog/g/gI-08229/
+ツェナーダイオード, 30V, 1, https://akizukidenshi.com/catalog/g/gI-08040/
+ツェナーダイオード, 12V, 1, https://akizukidenshi.com/catalog/g/gI-07432/
+マイコン内蔵RGB LED, SK6812MINI, 1, https://akizukidenshi.com/catalog/g/gI-15477/
+3216抵抗, 15kΩ, 1
+1608抵抗, 1MΩ 100kΩ 10kΩ 1kΩ
+
+# Colon Module
+ATTiny202, , ATTINY202-SSNR, 1, https://akizukidenshi.com/catalog/g/gI-15731/
+フォトカプラ, 300v150mA, TLP187, https://akizukidenshi.com/catalog/g/gI-15397/
+サイドビューマイコン内蔵LED, , S6812Side, 1, https://akizukidenshi.com/catalog/g/gI-13447/
+1608抵抗, 270kΩ 10kΩ 1kΩ
+
+# Nixie Power Module
+ATTiny202, , ATTINY202-SSNR, 1, https://akizukidenshi.com/catalog/g/gI-15731/
+DCDCコンバータIC, , TJ34063, 1, https://akizukidenshi.com/catalog/g/gI-13461/
+三端子DC/DCレギュレータ, 5V, BP5293-50, 1, https://akizukidenshi.com/catalog/g/gM-11188/
+NchMOSFET, 600V6A, R6006AND, 1, https://akizukidenshi.com/catalog/g/gI-15334/
+リセッタブルヒューズ, 1.25A, SMD1812P125TS, 1, https://akizukidenshi.com/catalog/g/gP-10074/
+整流用ダイオード, 1000V 200A, UF2010, 1, https://akizukidenshi.com/catalog/g/gI-00124/
+SMDパワーインダクタ, 100µH, NR10050T101M, 1, https://akizukidenshi.com/catalog/g/gP-08325/
+電解コンデンサ, 4,7µF 400V, 400PX4R7MEFC10X12.5, https://akizukidenshi.com/catalog/g/gP-10600/
+チップ抵抗, , 0.1Ω 0.2W, 1, https://akizukidenshi.com/catalog/g/gR-09570/
+基板取付用ボリューム, 10kΩB, RK09D117000B, 1, https://akizukidenshi.com/catalog/g/gP-14827/
+押しボタンスイッチ 黒, , 1, https://akizukidenshi.com/catalog/g/gP-04367/
+スライドスイッチ, , SS12D01G4, 1, https://akizukidenshi.com/catalog/g/gP-04367/
+2.1mmDCジャック, , 1, https://akizukidenshi.com/catalog/g/gC-01604/
+2.1mmDCジャック, , 1, https://akizukidenshi.com/catalog/g/gC-06342/
+
+# Clock & Timer Module
+ATmega48, , ATmega48-20AU, 1, https://akizukidenshi.com/catalog/g/gI-08437/
+RTC, , DS1307ZN, 1, https://akizukidenshi.com/catalog/g/gI-06950/
+焦電センサ, , D203B, 1, https://akizukidenshi.com/catalog/g/gI-05711/
+焦電センサ制御IC, , LP0001, 1, https://akizukidenshi.com/catalog/g/gI-09693/
+ダイナミックスピーカ, 3V, UGCM0903EPD, 1, https://akizukidenshi.com/catalog/g/gP-10129/
+ショットキーバリアダイオード, 30V 1A, RSX101VAM-30TR, 1, https://akizukidenshi.com/catalog/g/gI-05951/
+SMD電解コンデンサ, 47µF 10V, UZS1A470MCL1GB, https://akizukidenshi.com/catalog/g/gP-10417/
+1608セラミックコンデンサ, 0.01µF 0.1µF 10µF 
+ロータリーエンコーダ, 24クリック, EC12E2420801, 1, https://akizukidenshi.com/catalog/g/gP-06357/
+基板取付用ボリューム, 10kΩB, RK09D117000B, 1, https://akizukidenshi.com/catalog/g/gP-14827/
+3Pトグルスイッチ, 1回路2接点, 2MS3-T1-B4-M2-Q-E, 2, https://akizukidenshi.com/catalog/g/gP-02400/
+押しボタンスイッチ 黒, , 2, https://akizukidenshi.com/catalog/g/gP-04367/
+SMDタクトスイッチ, , TVAF06-A020B-R, 2, https://akizukidenshi.com/catalog/g/gP-14888/
+ボタン電池ケース, , BC1/3N, 1, https://akizukidenshi.com/catalog/g/gP-12889/
+
